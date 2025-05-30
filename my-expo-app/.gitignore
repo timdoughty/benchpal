@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Expo
+.expo/
+dist/
+*.jks
+*.p12
+*.keystore
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# EAS Build
+eas-build-pre-upload.tar.gz
+eas-build-post-upload.tar.gz
+
+# IDE / OS files
+.idea/
+.vscode/
+*.iml
+*.DS_Store
