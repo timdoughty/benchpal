@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "my-expo-app",
-    "slug": "my-expo-app",
+    "name": "benchpal",
+    "slug": "benchpal",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myexpoapp",
+    "scheme": "benchpal",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
