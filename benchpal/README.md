@@ -1,4 +1,4 @@
-# My Expo App
+# BenchPal
 
 This is an Expo project bootstrapped with `create-expo-app`.
 
